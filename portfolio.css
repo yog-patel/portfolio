@@ -55,7 +55,7 @@
     width: 100%;
     justify-content: space-between;
     height: 100vh;
-    background: url(1150580934e9f315d318392a623eb4a2.jpeg) no-repeat;
+    background: url(Screenshot 2023-08-05 at 2.04.52 PM.png) no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -245,4 +245,7 @@ html {
 .bg-text:hover{
     width: 50%;
 
+}
+*{
+    background-color: 000;
 }
